@@ -1,7 +1,7 @@
 # Ramez Elbaroudy
-### Welcome to my [GitHub][GitHub] page! Here are highlights of my recent project.
+### Welcome to my [GitHub](https://github.com/) page! Here are highlights of my recent project.
 
-* :video_camera:[Lingwino](http://lingwino.com): A video conference application for language learners.
+* :video_camera: [Lingwino](http://lingwino.com): A video conference application for language learners.
 ### Check my recent blog posts:
 
 * [How to develop video conference application (part 1)](https://medium.com/@ramezemadaiesec/from-zero-to-fully-functional-video-conference-app-using-go-and-webrtc-7d073c9287da)
